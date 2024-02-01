@@ -18,7 +18,7 @@
 - 🔭 I’m not working with web programming, but i would love to.
 - 🌱 I’m currently learning HTML, CSS, JS.
 - 💬 Ask me about anything
-- 📫 How to reach me: Aguaí, São Paulo, Brazil.
+- 📫 How to reach me: Hong Kong.
 
 
 <div align="center">
