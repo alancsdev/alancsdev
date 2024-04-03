@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-#! Hello! My name is Alan 👋 !!!!! 
+#! Hello! My name is Alan and i'm a brazilian living in Hong Kong 👋 !!!!! 
 
 - 🔭 I’m not working with web programming, but i would love to.
 - 🌱 I’m currently learning HTML, CSS, JS.
