@@ -1,0 +1,25 @@
+name: Generate Contribution Graphs
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-graphs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Generate Contribution Graphs
+        id: snk
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Print generated files
+        run: |
+          echo "Generated SVG: ${{ steps.snk.outputs.files }}"
+          echo "Generated Dark SVG: ${{ steps.snk.outputs.files_dark }}"
+          echo "Generated GIF: ${{ steps.snk.outputs.files_gif }}"
