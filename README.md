@@ -41,5 +41,5 @@
 <!--   <a href="https://www.udemy.com/"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a> -->
  </div>
   
-![snake animation](https://github.com/alancsdev/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/alancsdev/alancsdev/blob/output/github-contribution-grid-snake2.svg)
   
