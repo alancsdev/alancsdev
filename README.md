@@ -40,6 +40,12 @@
   <a href="https://www.linkedin.com/in/alan-chagas-dos-santos-a80bb88b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--   <a href="https://www.udemy.com/"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a> -->
  </div>
-  
-![snake animation](https://github.com/alancsdev/alancsdev/blob/output/github-contribution-grid-snake2.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
   
